@@ -1,0 +1,17 @@
+{
+    "component": {
+        "type": 17,
+        "components": [
+            {
+                "type": 10,
+                "content": "```markdown\n# 🚀 **SYNAPSE NETWORK**\n\n**Hire freelancers. Get hired. Find clients. Build connections.**\n\n💼 Real job postings\n✅ Verified freelancers\n🤝 Founder & agency networking\n🛡️ Scam-conscious community\n\n👉 **Join Discord:** https://discord.gg/cn6aQYuQEA\n🌐 **Synapse Hub:** https://synapse-hub-tools.web.app/\n🚀 **Join:** https://synapse-hub-tools.web.app/invite\n```"
+            },
+            {
+                "type": 2,
+                "style": 5,
+                "label": "Server invite (Also in ad above)",
+                "url": "https://discord.gg/cn6aQYuQEA"
+            }
+        ]
+    }
+}
