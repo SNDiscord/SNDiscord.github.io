@@ -1,1 +1,22 @@
-{"component":{"type":17,"accent_color":4152554,"components":[{"type":10,"content":"## Find your next Discord community\nServers ranked by real activity, reviews and listing quality, not just by who bumps the most."},{"type":10,"content":"**Free**: add your server in three minutes. 86 servers listed on Upguild."},{"type":1,"components":[{"type":2,"style":5,"label":"Browse servers","url":"https://upguild.me/en/search"},{"type":2,"style":5,"label":"Add my server","url":"https://upguild.me/en/add"}]},{"type":12,"items":[{"media":{"url":"https://upguild.me/banner-strip.png"},"description":"Upguild"}]}]}}
+{
+    "component": {
+        "type": 17,
+        "components": [
+            {
+                "type": 10,
+                "content": "```markdown\n# 🚀 **SYNAPSE NETWORK**\n\n**Hire freelancers. Get hired. Find clients. Build connections.**\n\n💼 Real job postings\n✅ Verified freelancers\n🤝 Founder & agency networking\n🛡️ Scam-conscious community\n\n👉 **Join Discord:** https://discord.gg/cn6aQYuQEA\n🌐 **Synapse Hub:** https://synapse-hub-tools.web.app/\n🚀 **Join:** https://synapse-hub-tools.web.app/invite\n```"
+            },
+            {
+                "type": 1,
+                "components": [
+                    {
+                        "type": 2,
+                        "style": 5,
+                        "label": "Server invite (Also in ad above)",
+                        "url": "https://discord.gg/cn6aQYuQEA"
+                    }
+                ]
+            }
+        ]
+    }
+}
